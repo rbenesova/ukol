@@ -3,7 +3,7 @@
 - [logo python](#logo)
     - [kodicek](#kodicek)
   - [moje nalada](#moje_nalada_ted)
-# logo
+## logo
 ![python](https://github.com/user-attachments/assets/72146915-40f9-4b09-9d0a-6fb0b0699af8)
 
 ## kodicek

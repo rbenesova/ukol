@@ -1,6 +1,6 @@
 
 # obsah
-- [logo pythong](#logo)
+- [logo python](#logo)
     -[kodicek](#kod)
   -[moje nalada](#mojenaladated)
 # logo
